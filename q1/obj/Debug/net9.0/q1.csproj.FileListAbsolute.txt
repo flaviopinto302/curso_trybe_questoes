@@ -1,0 +1,14 @@
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\bin\Debug\net9.0\q1.exe
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\bin\Debug\net9.0\q1.deps.json
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\bin\Debug\net9.0\q1.runtimeconfig.json
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\bin\Debug\net9.0\q1.dll
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\bin\Debug\net9.0\q1.pdb
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\obj\Debug\net9.0\q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\obj\Debug\net9.0\q1.AssemblyInfoInputs.cache
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\obj\Debug\net9.0\q1.AssemblyInfo.cs
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\obj\Debug\net9.0\q1.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\obj\Debug\net9.0\q1.dll
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\obj\Debug\net9.0\refint\q1.dll
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\obj\Debug\net9.0\q1.pdb
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\obj\Debug\net9.0\q1.genruntimeconfig.cache
+C:\Users\flavi\OneDrive\Área de Trabalho\QUESTOES\q1\obj\Debug\net9.0\ref\q1.dll
